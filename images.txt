@@ -4,9 +4,9 @@
 #clickhouse/clickhouse-server
 #minio/minio
 #apache/hive
-tomcat
-apache/hadoop
-apache/spark
+#tomcat
+#apache/hadoop
+#apache/spark
 apache/hbase
 postgres
 mariadb
