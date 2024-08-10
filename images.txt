@@ -1,9 +1,9 @@
 #haproxy
 #webcenter/activemq
 #seata/seata-server
-clickhouse/clickhouse-server
-minio/minio
-apache/hive
+#clickhouse/clickhouse-server
+#minio/minio
+#apache/hive
 tomcat
 apache/hadoop
 apache/spark
