@@ -2,7 +2,7 @@ redis
 nginx
 rabbitmq
 rocketmq
-kafka
+#kafka
 mongodb
 nacos
 sentinel
