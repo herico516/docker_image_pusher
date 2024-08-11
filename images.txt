@@ -13,7 +13,6 @@
 kibana/kibana
 logstash/logstash
 beats/filebeat
-#beats/heartbeat
 beats/metricsbeat
 openjdk:17
 openjdk:1.8
