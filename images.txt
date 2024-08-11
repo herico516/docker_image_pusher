@@ -10,7 +10,7 @@
 #apache/hbase
 #postgres
 #mariadb
-kibana/kibana
+#kibana/kibana
 logstash/logstash
 beats/filebeat
 beats/metricsbeat
