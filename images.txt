@@ -8,10 +8,8 @@
 #apache/hadoop
 #apache/spark
 #apache/hbase
-postgres
-mariadb
-jenkins/jenkins
-apache/skywalking-oap-server
+#postgres
+#mariadb
 elasticsearch/elasticsearch
 kibana/kibana
 logstash/logstash
@@ -20,6 +18,8 @@ beats/filebeat
 beats/metricsbeat
 openjdk:17
 openjdk:1.8
+jenkins/jenkins
+apache/skywalking-oap-server
 #kubesphere/prometheus-config-reloader:v0.55.1
 #kubesphere/kube-rbac-proxy:v0.11.0
 #kubesphere/kube-state-metrics:v2.6.0
