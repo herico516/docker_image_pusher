@@ -10,7 +10,6 @@
 #apache/hbase
 #postgres
 #mariadb
-elasticsearch/elasticsearch
 kibana/kibana
 logstash/logstash
 beats/filebeat
@@ -20,6 +19,7 @@ openjdk:17
 openjdk:1.8
 jenkins/jenkins
 apache/skywalking-oap-server
+elasticsearch/elasticsearch
 #kubesphere/prometheus-config-reloader:v0.55.1
 #kubesphere/kube-rbac-proxy:v0.11.0
 #kubesphere/kube-state-metrics:v2.6.0
